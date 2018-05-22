@@ -26,8 +26,10 @@ if x>10:
     print('x é maior do que 10')
     print('Este é o y: ', y)
 elif x>5:				# elif é uma abreviação para else if
-	print('x é maior do que 5  e menor que 10')
+    print('x é maior do que 5  e menor que 10')
 else:
-	print('x não é maior do que 10')
-	y = 150
+    print('x não é maior do que 10')
+    y = 150
+	
+# repare como a indentação deixou bonito o código :D além de mais organizado
 print('Será mesmo esse o y?', y)
