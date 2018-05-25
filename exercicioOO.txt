@@ -1,0 +1,17 @@
+# Criar uma classe Pessoa
+# Ela deve ter um nome e uma lista de amigos
+# -O nome é fornecido na inicialização
+# -A lista de amigos deve ser vazia inicialmente
+# Criar 3 métodos
+# - Cria uma saudação do tipo:
+        x = Pessoa('Juca')
+        x.ola()
+        Olá! Eu sou Juca
+# - Adicionem um amigo à lista de amigos
+        x = Pessoa('Juca')
+        x.add_friend('Olaf')
+        x.add_friend('Marcos')
+
+# - Imprime na tela a sua lista de amigos
+        x.show_friends()
+        ['Olaf', 'Marcos']
