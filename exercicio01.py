@@ -28,7 +28,7 @@ else:
 	novos_amigos.append(nome)
 	if nome in novos_amigos:
 		print('Você já é meu novo amiguinho!')
-		print(novos_amigos)		
+		print(novos_amigos) 		
 
 
 
