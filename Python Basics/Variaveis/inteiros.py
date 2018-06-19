@@ -14,6 +14,17 @@ print(int(3.0001))  # 3
 print(int(5.5639))  # 5
 print(int(9.9999))  # 9
 
+# # Mudança de sinal
+x = 5
+y = -x  # Sintaxe para "y é o negativo de x"
+print(x)
+print(y)
+
+# # Função abs()
+# Retorna o valor absoluto
+print(abs(y))
+print(abs(x))
+
 
 # # Função pow()
 # Equivalente à sintaxe **
