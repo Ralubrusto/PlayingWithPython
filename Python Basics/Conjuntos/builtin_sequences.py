@@ -3,11 +3,18 @@
 minha_lista = [1, 2, 3]  # Lista - colchetes []
 print(type(minha_lista))  # <class 'list'>
 
-minha_tupla = (1, 2, 3)  # Tupla - parênteses ()
+minha_tupla = (11, -2)  # Tupla - parênteses ()
 print(type(minha_tupla))  # <class 'tuple'>
 
-meu_set = {1, 2, 3}  # Set - chaves {}
-print(type(meu_set))  # <class 'set'>
+# # Podem, por exemplo, ser passados como argumentos para as seguintes funções
 
-meu_dict = {'Chave1': 1, 'Chave2': 2, 'Chave3': 3}  # Dicionário - {chave : valor}
-print(type(meu_dict))  # <class 'dict'>
+# Determinando a quantidade de elementos - LEN()
+
+print(len(minha_lista))  # 3
+
+print(len(minha_tupla))  # 2
+
+# Excetuando-se dicionários, é possível determinar valores máximos e mínimos de conjuntos puramente numéricos
+
+print(max(minha_tupla))
+print(min(meu_set))
