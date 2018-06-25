@@ -12,9 +12,14 @@ Módulos:
 - Tipos numéricos
   - Booleano
   - Inteiro
-  - (Not Yet) Float
-- (Not Yet) Vetores
-- (Not Yet) Dicionários e Sets
+  - Float
+  - Complexo
+- Conjuntos Sequenciais
+  - Listas
+  - Tuplas
+- Conjuntos não sequenciais
+  - Dicionários
+  - Sets
 - (Not Yet) Condicionais
 - (Not Yet) Laços de Iteração
 - (Not Yet) Strings
