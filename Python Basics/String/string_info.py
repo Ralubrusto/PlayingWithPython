@@ -1,0 +1,1 @@
+# Alguns dos métodos mais comuns em strings
