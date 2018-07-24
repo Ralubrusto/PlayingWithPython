@@ -22,7 +22,8 @@ Módulos:
   - Sets
 - (Not Yet) Condicionais
 - (Not Yet) Laços de Iteração
-- (Not Yet) Strings
+- Strings
+  - Uso de aspas
 - (Not Yet) Funções
 - (Not Yet) Introdução a Orientação a Objetos
 - (Not Yet) Leitura e escrita de arquivos
