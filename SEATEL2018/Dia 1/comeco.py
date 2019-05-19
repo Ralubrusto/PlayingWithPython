@@ -20,7 +20,7 @@ y = 5
 		
 # Repare na sintaxe
 # if [condicao] :
-# ....o bloco que vêm abaixo do IF deve ser INDENTADO, alinhado no mínimo 2 (4 por padrão) espaços à direita
+# ....o bloco que vêm abaixo do IF deve ser INDENTADO, alinhado no mínimo 2 (4 por padrão) espaços à esquerda
 
 if x>10:
     print('x é maior do que 10')
